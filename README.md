@@ -1,7 +1,7 @@
 # PasswordChecker
 In this project i have created the password checker i had taken passwords from wobsite called "Have i been pwned" 
 Step to Run this code 
-Step-1 first you need to clone this code 
+# Step-1 first you need to clone this code 
 Step-2 you have to run this in terminal 
 Step-3 Suppose you are running on python3 
      you can run this -  python3 "filename that you saved" Hello 
