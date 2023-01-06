@@ -8,6 +8,6 @@ Step to Run this code
           Hello is the password you need give the password along running file
           
 I am looking forward to imporve this code by reading the password from text files insted of terminal
-Because when you typr password in terminal your password will save in computer we access it by easily by pressing UP Arrow. To overcome this i am trying to read passsword from .txt file 
+Because when you type password in terminal your password will save in computer we access it by easily by pressing UP Arrow. To overcome this i am trying to read passsword from .txt file 
 
 THANK YOU
